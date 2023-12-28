@@ -44,6 +44,10 @@ Pull the folders in vs code , then install
 
 Then, when the server connects, it provides the path address. Click on the address and open the website in the browser.
 
+## Hosting
+
+I used Hostinger-powered 000webhost. You can only host one website with this free website host; additional premium plans are available.
+hosting link: https://in.000webhost.com/
 
 ## Website Link
 
