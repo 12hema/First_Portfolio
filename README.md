@@ -40,7 +40,7 @@ Technologies used:
 
 Install visual studio code.
 
-Pull the folders in vs code , then install 
+Pull the folders in vs code ,
 
 Then, when the server connects, it provides the path address. Click on the address and open the website in the browser.
 
